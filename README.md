@@ -1,3 +1,4 @@
+![logo](https://github.com/meghanakongara0429/meghanakongara0429/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm <b>Kongara Meghana</b></h1>
 <h3 align="center">CSE (Artificial Intelligence) | Building Smarter Solutions Through Code 💻🤖</h3>
 
