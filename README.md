@@ -70,38 +70,6 @@ I’m Meghana, a passionate AI and software developer who loves turning ideas in
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🚮 **TrashTracker**  
-**Transforming waste management with AI!**  
-Developed an intelligent system that *automatically classifies and quantifies* mixed waste, empowering smarter recycling and reducing landfill impact.  
-🔍 *Tech:* Deep Learning, CNN, Python  
-<p align="left">
-  <a href="https://github.com/meghanakongara0429/TrashTracker" target="_blank" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:8px;font-weight:bold;">See Details</a>
-</p>
-
----
-
-#### ❤️ **Heart Disease Prediction**  
-**Saving lives through data!**  
-Built a predictive Flask app leveraging machine learning to identify heart disease risk early — helping users make informed health decisions.  
-🔍 *Tech:* Python, Flask, ML Models  
-<p align="left">
-  <a href="https://github.com/meghanakongara0429/HeartDiseasePrediction" target="_blank" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:8px;font-weight:bold;">See Details</a>
-</p>
-
----
-
-#### 🚨 **Real-Time Threat Detection**  
-**AI for women’s safety in real time!**  
-Designed a cutting-edge AI system that detects potential threats and sends instant alerts, promoting safer public spaces for women.  
-🔍 *Tech:* Computer Vision, AI, Real-Time Analytics  
-<p align="left">
-  <a href="https://github.com/meghanakongara0429/ThreatDetection" target="_blank" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:8px;font-weight:bold;">See Details</a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
