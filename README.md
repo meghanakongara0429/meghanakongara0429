@@ -58,17 +58,18 @@ I'm Meghana, a passionate AI and software developer skilled in designing scalabl
   Cloud AI services and concepts
 - **NPTEL – The Joy of Computing using Python**  
   Python programming and problem solving
+
 ---
 
 ### 💻 Projects
 
-#### 🗑️ [Trash Tracker: Waste Classification (CNN)](https://github.com/meghanakongara0429/Trash-Tracker-Project)
+#### [🗑️ Trash Tracker: Waste Classification (CNN)](https://github.com/meghanakongara0429/Trash-Tracker-Project)
 > Multi-class waste classification system with 43% test accuracy  
 > Real-time waste composition analysis  
 > 99% uptime in simulated environments  
 > Tech: Python, CNN, Django
 
-#### 🌐 [React Portfolio Website](https://meghanakongara0429.github.io/Meghana-Portifolio/)
+#### [🌐 React Portfolio Website](https://meghanakongara0429.github.io/Meghana-Portifolio/)
 > Responsive portfolio with client-side routing  
 > Integrated contact form with backend services  
 > Tech: ReactJS, HTML5, CSS3
