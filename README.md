@@ -46,23 +46,51 @@ I'm Meghana, a passionate AI and software developer skilled in designing scalabl
 ### 🏆 Achievements
 - 🥇 **1st place** in Code Crunch & Glitch Hunt (SPECTRA 2K24)
 - 🏅 **Top 7% globally** on GeeksforGeeks (600+ problems solved)
+- 🥇 **Ninja Dominator** on Coding Ninjas (6900+ EXP) [Profile](https://www.naukri.com/code360/profile/ed56550a-6895-43ef-9920-79024e51c650)
 - ⭐ **Gold Badge** in Problem Solving (HackerRank)
 - 🏅 **Silver Badges** in C, C++, Java (HackerRank)
-- 📜 **Microsoft Certified**: Azure AI Fundamentals
 - 🥇 **Academic Merit Award** (Top 5% across semesters)
+
+---
+
+### 📜 Certifications
+- **Microsoft Certified: Azure AI Fundamentals**  
+  Cloud AI services and concepts
+- **NPTEL – The Joy of Computing using Python**  
+  Python programming and problem solving
+- **AWS Academy Graduate - Cloud Foundations**  
+  Cloud infrastructure and services
 
 ---
 
 ### 💻 Projects
 
-#### 🗑️ Trash Tracker: Waste Classification (CNN)
+#### 🗑️ [Trash Tracker: Waste Classification (CNN)](https://github.com/meghanakongara0429/Trash-Tracker-Project)
 > Multi-class waste classification system with 43% test accuracy  
 > Real-time waste composition analysis  
 > 99% uptime in simulated environments  
+> Tech: Python, CNN, Django
 
-#### 🌐 React Portfolio Website
+#### 🌐 [React Portfolio Website](https://meghanakongara0429.github.io/Meghana-Portifolio/)
 > Responsive portfolio with client-side routing  
 > Integrated contact form with backend services  
+> Tech: ReactJS, HTML5, CSS3
+
+
+
+### 👥 Leadership & Community
+
+#### **Microsoft Learn Student Club** 
+> - Active member contributing to  learning initiatives  
+> - Organized  technical workshops reaching 200+ students 
+
+#### **Project Team Leadership**
+> - Led 4-member team in developing Trash Tracker CNN solution  
+> - Managed Agile sprints and technical decision-making  
+> - Mentored junior developers in deep learning concepts  
+> - Coordinated cross-functional collaboration between ML and frontend teams
+
+
 
 ---
 
@@ -71,6 +99,10 @@ I'm Meghana, a passionate AI and software developer skilled in designing scalabl
 <p align="center">
   <a href="https://linkedin.com/in/meghana-kongara-55b96b290" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/ed56550a-6895-43ef-9920-79024e51c650" target="_blank" rel="noopener noreferrer">
+    <img src="https://static.codingninjas.com/cdn-cgi/image/width=1920,quality=90,format=auto/assets/images/logo.svg" width="100" alt="Coding Ninjas" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/meghana_kongara/" target="_blank" rel="noopener noreferrer">
