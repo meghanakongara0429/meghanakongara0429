@@ -58,9 +58,6 @@ I'm Meghana, a passionate AI and software developer skilled in designing scalabl
   Cloud AI services and concepts
 - **NPTEL – The Joy of Computing using Python**  
   Python programming and problem solving
-- **AWS Academy Graduate - Cloud Foundations**  
-  Cloud infrastructure and services
-
 ---
 
 ### 💻 Projects
@@ -76,13 +73,13 @@ I'm Meghana, a passionate AI and software developer skilled in designing scalabl
 > Integrated contact form with backend services  
 > Tech: ReactJS, HTML5, CSS3
 
-
+---
 
 ### 👥 Leadership & Community
 
 #### **Microsoft Learn Student Club** 
-> - Active member contributing to  learning initiatives  
-> - Organized  technical workshops reaching 200+ students 
+> - Active member contributing to learning initiatives  
+> - Organized technical workshops reaching 200+ students 
 
 #### **Project Team Leadership**
 > - Led 4-member team in developing Trash Tracker CNN solution  
@@ -90,31 +87,34 @@ I'm Meghana, a passionate AI and software developer skilled in designing scalabl
 > - Mentored junior developers in deep learning concepts  
 > - Coordinated cross-functional collaboration between ML and frontend teams
 
-
-
 ---
 
-### 📫 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
+  <a href="https://github.com/meghanakongara0429" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="https://linkedin.com/in/meghana-kongara-55b96b290" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/ed56550a-6895-43ef-9920-79024e51c650" target="_blank" rel="noopener noreferrer">
-    <img src="https://static.codingninjas.com/cdn-cgi/image/width=1920,quality=90,format=auto/assets/images/logo.svg" width="100" alt="Coding Ninjas" />
+  <a href="mailto:meghanakongara0429@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/meghana_kongara/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/meghanakongara01" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/meghanakongara0429/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Articles-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://www.naukri.com/code360/profile/ed56550a-6895-43ef-9920-79024e51c650" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Coding_Ninjas-Profile-FF6B00?style=for-the-badge" alt="Coding Ninjas">
   </a>
 </p>
 
